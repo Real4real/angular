@@ -1,0 +1,1 @@
+https://anypoint.mulesoft.com/apiplatform/repository/v2/organizations/53806f58-49a2-4aea-bae9-91ca570e4f4d/public/apis/18293074/versions/307251/files/examples/service_category_collection_example.json
