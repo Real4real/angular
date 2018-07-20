@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+}
+#wrapper{
+  max-width:1440px;
+  min-width: 950px;
+  margin: 0 auto;
+  position:relative;
+  height:100%;
+}
+
+#main{
+  float:left;
+  width:100%;
+}
+#content{
+  margin:62px 228px 0 243px;
+  border: 1.4px solid #e0e2e6;
+  border-radius: 5px;
+}

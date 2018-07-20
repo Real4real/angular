@@ -1,0 +1,195 @@
+#left_side{
+  width:223px;
+  margin-left:-100%;
+  float:left;
+  //background-color: red;
+}
+.vertical-menu {
+  width: 223px;
+  a{
+    font-family: Myriad Pro, sans-serif;
+  }
+  /* Set a width if you like */
+}
+.vertical-menu ul {
+  list-style: none;
+  margin: 0 0 0 13px;
+  padding: 0;
+  overflow: hidden;
+}
+.vertical-menu li {
+  padding: 0px;
+  padding-top: 10.4px;
+  margin: 1px 0 -1px -13px;
+  height: 39px;
+  border: 1.4px solid #e0e2e6;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+
+}
+.vertical-menu li:hover{
+
+  a {
+    color: #71973c;
+  }
+}
+
+.vertical-menu ul:last-child {
+  border: 1.4px solid #e0e2e6;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+}
+.vertical-menu a {
+  letter-spacing: 0.8px;
+  color: #59606b;
+  display: block;
+  text-decoration: none;
+  padding: 4px 0px 0px 42px;
+  font-size: 16px;
+}
+.vertical-menu img {
+  position: relative;
+
+  padding: 0;
+
+  left: -24px;
+
+  float: left;
+
+  top: -2px;
+
+  //width: 22px;
+  //
+  //height: 22px;
+}
+
+.advertisement {
+  margin: 2px 0 0px 12px;
+  padding: 0 0 0 0;
+  width: 215px;
+  height: 386px;
+  border: 1.4px solid #e0e2e6;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+  p {
+    font-family: Myriad Pro, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.8px;
+  }
+}
+
+.adImg img {
+  height: 300px;
+  padding: 0px 0 0px 0px;
+  margin: 3px 0 0px 5px;
+  cursor: pointer;
+}
+.adText p {
+  color: #59606b;
+  padding: 20px 0 0px 6px;
+  margin: 0px 0 11px 0;
+}
+.adBy p {
+  color: #d3d3d3;
+  padding: 1px 0 0px 5px;
+  margin: 0px 0 0 0;
+  font-size: 11.6px;
+  letter-spacing: 0.2px;
+}
+.advertisement .adBy p span {
+  cursor: pointer;
+}
+
+.featuredCont {
+  height: 352px;
+  width: 214px;
+  margin: 0px 0 0px 12px;
+  padding: 0 0 0 0;
+  border: 1.4px solid #e0e2e6;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+  p{
+    font-family: Myriad Pro, sans-serif;
+    font-size: 15px;
+    height: 100%;
+    width: 100%;
+    float: left;
+  }
+  a{
+    font-family: Myriad Pro, sans-serif;
+  }
+  .companyCont {
+    margin: 0px 0 0px 0px;
+    padding: 0 0 0 0;
+  }
+  .featured {
+    display: inline-block;
+  }
+  .featured p {
+    font-size: 15px;
+    height: 100%;
+    width: 100%;
+    float: left;
+    letter-spacing: 0.45px;
+    margin: 20px 0px 0 4px;
+  }
+  .featured a {
+    text-decoration: none;
+    font-size: 14px;
+    float: right;
+    margin: -21px 0 0px 94px;
+    color: #1c2534;
+  }
+}
+
+
+.companyT {
+  margin: -13px 0 0 5px;
+  padding: 0px 0 0 0;
+  p {
+    font-size: 4mm;
+    height: 80px;
+    color: #1c2534;
+    margin: 19px 0 0 0;
+    padding: 0 0 0 0;
+    letter-spacing: 0.9px;
+    .info {
+      color: #7c8695;
+      font-size: 3.6mm;
+      letter-spacing: 0.4px;
+    }
+    a {
+      text-decoration: none;
+      font-size: 11px;
+      letter-spacing: 0.8px;
+      color: #7c8695;
+    }
+  }
+  img {
+    width: 80px;
+    height: 80px;
+    float: left;
+    padding: 2px 10px 0 0;
+  }
+}
+
+
+.dodInfo {
+  padding: 0 0 0 0;
+  margin: 0 0 0 10px;
+  height: 100%;
+  p{
+    font-family: Myriad Pro, sans-serif;
+  }
+}
+.dodInfo a {
+  text-decoration: none;
+  color: #b7bfcd;
+}
+.dodInfo p {
+  color: #b7bfcd;
+}

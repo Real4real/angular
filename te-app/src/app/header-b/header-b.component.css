@@ -1,0 +1,75 @@
+header {
+  max-width: 1440px;
+  min-width: 950px;
+  margin: 0 auto;
+  height: 68px;
+  background-color: #87b448;
+}
+header .logoDiv {
+  background-image: url("img/Logo.png");
+  position: absolute;
+  left: 19px;
+  top: 11px;
+  width: 130px;
+  height: 40px;
+  z-index: 566;
+}
+header h1 {
+  margin: 0;
+  text-align: center;
+}
+
+.navHeader {
+  width: 100%;
+  position: relative;
+  float: none;
+}
+
+.searhc-container {
+  padding-left: 244px;
+  margin-top: 0;
+  width: 440px;
+}
+.searhc-container form input {
+  font-size: 15px;
+  font-style: normal;
+}
+.searhc-container .searchField {
+  background-image: url("img/Search.png");
+  background-color: #73993d;
+  background-position: 10px;
+  background-repeat: no-repeat;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  height: 34px;
+  width: 377px;
+  margin: 17px 0 0 0;
+  padding: 0px 20px 0 38px;
+}
+
+.icons {
+  margin: -29px 0 0 836px;
+  width: 100px;
+}
+
+.contIcons {
+  width: 100px;
+}
+.contIcons a {
+  margin: 0 18px 0 -5px;
+}
+
+.profile {
+  margin: -47px 0px 0px 94px;
+  width: 224px;
+}
+.profile p {
+  margin: 23px 0 -27px 42px;
+  color: white;
+  cursor: pointer;
+  font-family: Myriad Pro, sans-serif;
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=header-b.component.css.map */
